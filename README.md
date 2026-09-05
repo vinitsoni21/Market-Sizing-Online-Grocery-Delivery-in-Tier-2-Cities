@@ -64,6 +64,8 @@ The MPCE adjustment is an **analyst-derived assumption** used to account for dif
 ## Dashboard
 
 ![Quick-Commerce Market Sizing Dashboard](dashboard.png)
+![piechart](QCpiechart.png)
+![bargraph](QCbargraph.png)
 
 The Excel dashboard includes:
 
